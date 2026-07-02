@@ -7,7 +7,7 @@ Este projeto simula o sistema oficial de pontuação utilizado em campeonatos de
 * **Critério de Desempate/Regra Oficial:** Identifica e remove automaticamente a maior e a menor nota da lista antes de calcular a média.
 * **Formatação Precisa:** Exibe o resultado final elegantemente formatado com duas casas decimais.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 * **Python 3** (Lógica de listas, controle de fluxo e funções nativas como `max()`, `min()`, `sum()` e `len()`).
 
 ##  Como Executar o Projeto
